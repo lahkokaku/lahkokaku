@@ -1,7 +1,7 @@
 ## Hello there 👋, it's Jose
 ### 🧑‍💻 Software Development Engineer Intern at [Blibli.com](https://blibli.com)
 
-[My personal website](lahkokaku.github.io) where you can see my resume and featured projects.
+[My personal website](https://lahkokaku.github.io) where you can see my resume and featured projects.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/josestephens)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jose.satrya@gmail.com)
