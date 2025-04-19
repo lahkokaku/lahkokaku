@@ -6,6 +6,8 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/josestephens)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jose.satrya@gmail.com)
 
+---
+
 ### ⚡ Skills
 Some of the technologies that I am familliar with.
 
@@ -34,8 +36,11 @@ Some of the technologies that I am familliar with.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
+---
 
 ### 📬 Contact
 Wanna talk? Please feel free to reach out to me via email at [jose.satrya@gmail.com](mailto:jose.satrya@gmail.com).
 
 Or alternatively, through LinkedIn at [Jose Stephen](https://www.linkedin.com/in/josestephens).
+
+---
