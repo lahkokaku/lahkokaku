@@ -1,5 +1,5 @@
 ## Hello there 👋, it's Jose
-### 🧑‍💻 Software Development Engineer Intern at [Blibli.com](https://blibli.com)
+### 🧑‍💻 Software Engineer at [Blibli.com](https://blibli.com)
 
 [My personal website](https://lahkokaku.github.io) where you can see my resume and featured projects.
 
